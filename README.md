@@ -1,0 +1,2 @@
+# LPQueries
+selected LINQPad queries
